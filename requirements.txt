@@ -1,6 +1,5 @@
 selenium
 requests
-random
 json
 time
 os
