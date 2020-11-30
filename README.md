@@ -20,6 +20,7 @@ $ python auto.py
 
 ## Donate
 If you feel generous for the time I took to make this, you can donate here:
+
 **PayPal: flixonuk@gmail.com**
 
 **BTC: `14EMkisxfshvRtK5BaG6F88bK8E5YJceqP`**
