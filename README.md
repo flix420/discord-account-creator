@@ -17,3 +17,10 @@ This Discord account creator has been made as a simple project for sale, but it 
 $ pip install -r requirements.txt
 $ python auto.py
 ```
+
+## Donate
+If you feel generous for the time I took to make this, you can donate here:
+**PayPal: flixonuk@gmail.com**
+**BTC: `14EMkisxfshvRtK5BaG6F88bK8E5YJceqP`**
+
+*Thanks!*
